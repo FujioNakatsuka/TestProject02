@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  ThirdViewController.swift
 //  TestProject02
 //
 //  Created by 中塚富士雄 on 2020/03/12.
@@ -8,13 +8,8 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
-
+class ThirdViewController: UIViewController {
     override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    super.viewDidLoad()
     }
-
-
 }
-
